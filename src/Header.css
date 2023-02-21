@@ -1,0 +1,6 @@
+.header{
+    background-image: url('./assets/images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:320px;
+ }
