@@ -63,7 +63,7 @@ function Footer(){
                 <img src={picture5} alt='picture5' className="footer_body_part4_image"/>
                 <img src={picture6} alt='picture6' className="footer_body_part4_image"/>
               </div>
-            </div>
+            </div> 
             </div>
         </div>
         <div className="footer_bottom">

@@ -1,0 +1,12 @@
+.products{
+    padding: 120px 0px;
+}
+
+.products__wrapper{
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 24px;
+}

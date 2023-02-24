@@ -4,6 +4,8 @@ import Navbar from './Navbar'
 import Header from './Header'
 import Newsletter from './Newsletter'
 import Footer from './Footer'
+import Card from './Card'
+import MainCard from './Newsletter'
 
 function Root (){
     return(
@@ -14,11 +16,15 @@ function Root (){
             {/* ------------------------Header------------------------ */}
         <Header/>
 
+        <Card/>
+        <MainCard/>
             {/* ------------------------Newsletter------------------------ */}
         <Newsletter/>
 
             {/* ------------------------Newsletter------------------------ */}
          <Footer/>
+
+         
     </div>
     )
    
